@@ -1,0 +1,10 @@
+* 工作安排与进展
+
+** TODO [#B] 录制spacemacs Rocks 第二季第六天的视频
+   SCHEDULED: <2022-08-18 Thu 15:50>
+   :LOGBOOK:
+   CLOCK: [2022-08-18 Thu 04:34]
+   :END:
+
+** TODO [#B] Clear up our Emacs configs
+
